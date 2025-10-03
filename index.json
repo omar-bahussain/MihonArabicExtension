@@ -2,10 +2,10 @@
  {
     "name": "Tachiyomi: مانجا العاشق",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
-    "apk": "tachiyomi-ar.manga3asq-v1.4.44.apk",
+    "apk": "tachiyomi-ar.manga3asq-v1.4.46.apk",
     "lang": "ar",
     "code": 1,
-    "version": "1.4.44",
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -36,10 +36,10 @@
   {
     "name": "Tachiyomi: ازورا مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
-    "apk": "tachiyomi-ar.azora-v1.4.50.apk",
+    "apk": "tachiyomi-ar.azora-v1.4.52.apk",
     "lang": "ar",
     "code": 3,
-    "version": "1.4.50",
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
@@ -70,10 +70,10 @@
   {
     "name": "Tachiyomi: مانجا لينك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.46.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.48.apk",
     "lang": "ar",
     "code": 5,
-    "version": "1.4.46",
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
@@ -87,10 +87,10 @@
   {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.50.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.52.apk",
     "lang": "ar",
     "code": 6,
-    "version": "1.4.50",
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
@@ -132,6 +132,24 @@
         "lang": "ar",
         "id": "4110737012647435874",
         "baseUrl": "https://olympustaff.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Starz",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.51.apk",
+    "lang": "ar",
+    "code": 9,
+    "version": "1.4.51",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Starz",
+        "lang": "ar",
+        "id": "6058166507489091982",
+        "baseUrl": "https://manga-starz.com",
+        "versionId": 1
       }
     ]
   }
