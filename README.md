@@ -1,4 +1,4 @@
-# ![شعار المشروع](https://raw.githubusercontent.com/keiyoushi/extensions-source/main/logo.png)
+# ![شعار المشروع](https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/refs/heads/main/TEAM%20BO%20logo.png)
 
 ## حول المشروع
 هذا المشروع **معدل من مشروع آخر** ليناسب الاستخدام العربي، مع الحفاظ على جميع المميزات الأساسية للنسخة الأصلية.
@@ -13,6 +13,7 @@
 5. اختر **مستودع الإضافات** أو **Extensions Repository**.
 6. اضغط على علامة **+** لإضافة مستودع جديد.
 7. الصق الرابط التالي في الحقل المخصص:
+
 https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/repo/index.min.json
 8. اضغط **حفظ** أو **Save** لإتمام العملية، وسيتم تحميل المستودع تلقائيًا.
 
