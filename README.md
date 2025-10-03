@@ -1,4 +1,4 @@
-# ![شعار المشروع](https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/refs/heads/main/TEAM%20BO%20logo.png)
+# ![شعار المشروع](https://github.com/omar-bahussain/MihonArabicExtension/blob/590d3d125239b71256a5a510875f067db31feffd/TEAM%20BO%20logo.png)
 
 ## حول المشروع
 هذا المشروع **معدل من مشروع آخر** ليناسب الاستخدام العربي، مع الحفاظ على جميع المميزات الأساسية للنسخة الأصلية.
