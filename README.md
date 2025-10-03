@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/repo/index
 ### الإبلاغ عن المشاكل أو التواصل مع المطوّر  
 
 للتواصل معنا أو للإبلاغ عن أي مشكلة، يرجى متابعة قناتنا الرسمية على تليجرام:  
-[🔗 RHubOfficial](https://t.me/RHubOfficial)
+[RHubOfficial](https://t.me/RHubOfficial)
