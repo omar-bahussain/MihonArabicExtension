@@ -12,10 +12,10 @@
 4. اضغط على **ثلاث النقاط** الموجودة أعلى يسار الشاشة لفتح القائمة.
 5. اختر **مستودع الإضافات** أو **Extensions Repository**.
 6. اضغط على علامة **+** لإضافة مستودع جديد.
-7. الصق الرابط التالي في الحقل المخصص:
-https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/repo/index.min.json
+7. الصق الرابط التالي في الحقل المخصص.
 8. اضغط **حفظ** أو **Save** لإتمام العملية، وسيتم تحميل المستودع تلقائيًا.
-
+### الرابط:
+https://raw.githubusercontent.com/omar-bahussain/MihonArabicExtension/repo/index.min.json
 ### الإبلاغ عن المشاكل أو التواصل مع المطوّر  
 
 للتواصل معنا أو للإبلاغ عن أي مشكلة، يرجى متابعة قناتنا الرسمية على تليجرام:  
