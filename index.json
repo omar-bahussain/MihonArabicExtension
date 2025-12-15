@@ -2,10 +2,10 @@
  {
     "name": "Tachiyomi: مانجا العاشق",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
-    "apk": "tachiyomi-ar.manga3asq-v1.4.46.apk",
+    "apk": "tachiyomi-ar.manga3asq-v1.4.47.apk",
     "lang": "ar",
     "code": 1,
-    "version": "1.4.46",
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -36,10 +36,10 @@
   {
     "name": "Tachiyomi: ازورا مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
-    "apk": "tachiyomi-ar.azora-v1.4.52.apk",
+    "apk": "tachiyomi-ar.azora-v1.4.53.apk",
     "lang": "ar",
     "code": 3,
-    "version": "1.4.52",
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -70,10 +70,10 @@
   {
     "name": "Tachiyomi: مانجا لينك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.48.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.49.apk",
     "lang": "ar",
     "code": 5,
-    "version": "1.4.48",
+    "version": "1.4.49",
     "nsfw": 0,
     "sources": [
       {
@@ -87,10 +87,10 @@
   {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.52.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.53.apk",
     "lang": "ar",
     "code": 6,
-    "version": "1.4.52",
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -104,10 +104,10 @@
   {
     "name": "Tachiyomi: سوات مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.56.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.57.apk",
     "lang": "ar",
     "code": 7,
-    "version": "1.4.56",
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -121,10 +121,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.22.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.23.apk",
     "lang": "ar",
     "code": 8,
-    "version": "1.4.22",
+    "version": "1.4.23",
     "nsfw": 0,
     "sources": [
       {
@@ -138,10 +138,10 @@
   {
     "name": "Tachiyomi: Manga Starz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.51.apk",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.52.apk",
     "lang": "ar",
     "code": 9,
-    "version": "1.4.51",
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
